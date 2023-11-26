@@ -1,0 +1,16 @@
+{
+  "name": "stories",
+  "version": "1.0.0",
+  "description": "A nice discord bot for stories and adventures",
+  "main": "sisbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sébastien Heitz",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "googleapis": "^39.2.0"
+  }
+}
