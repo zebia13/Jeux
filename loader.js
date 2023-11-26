@@ -3,8 +3,8 @@ const child_process = require("child_process");
 // Add your files here
 
 const start_files = [
-    "./Stories/sisbot.js",
-    "./Bass/bass.js"
+    "./02 - Stories/sisbot.js",
+    "./01 - Big Ace Spreadsheet/bass.js"
 ];
 
 // Don't edit below this line
